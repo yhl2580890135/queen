@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/queen.iml" filepath="$PROJECT_DIR$/.idea/modules/queen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../queen/.idea/modules/queen_main.iml" filepath="$PROJECT_DIR$/../queen/.idea/modules/queen_main.iml" group="queen" />
+      <module fileurl="file://$PROJECT_DIR$/../queen/.idea/modules/queen_test.iml" filepath="$PROJECT_DIR$/../queen/.idea/modules/queen_test.iml" group="queen" />
+    </modules>
+  </component>
+</project>
